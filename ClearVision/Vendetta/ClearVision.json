@@ -1,9 +1,9 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "ClearVisionRed v0.1",
+    "description": "Fork of ClearVision that using Red.",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "Original Port by Taki_Shiwa, edited by Sunny, further edited by TheMonkeyMechanic",
          "id": "466968658997149706"
       }
     ],
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://cdnb.artstation.com/p/assets/images/images/002/341/425/large/dominik-mayer-born-in-fire.jpg?1460499014",
 	"alpha": 1
     },
     "plus": {
