@@ -1,9 +1,9 @@
 {
-    "name": "ClearVisionRed v0.1.1",
+    "name": "ClearVisionRed v0.1.2",
     "description": "Fork of ClearVision that using Red.",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny & TheMonkeyMechanic",
+         "name": "Taki_Shiwa, Sunny & MonkeyMechanic",
          "id": "466968658997149706"
       }
     ],
