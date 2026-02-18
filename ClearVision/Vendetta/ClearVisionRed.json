@@ -16,7 +16,7 @@
       "#170a0a"
     ],
     "BACKGROUND_ACCENT": [
-      "#e01b24"
+      "#c01c28"
     ],
     "BACKGROUND_FLOATING": [
       "#a51d2d"
@@ -106,28 +106,28 @@
       "#a51d2d"
     ],
     "HEADER_PRIMARY": [
-      "#b9a0a0"
+      "#ffffff"
     ],
     "HEADER_SECONDARY": [
       "#bf4040"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#e01b24"
+      "#c01c28"
     ],
     "INTERACTIVE_HOVER": [
-      "#c01c28"
+      "#f66151"
     ],
     "INTERACTIVE_MUTED": [
       "#bf4040"
     ],
     "INTERACTIVE_NORMAL": [
-      "#b9a0a0"
+      "#ffffff"
     ],
     "MENTION_BACKGROUND": [
       "rgba(114,0,0,0.1)"
     ],
     "MENTION_FOREGROUND": [
-      "#e01b24"
+      "#c01c28"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#230c0c"
@@ -151,7 +151,7 @@
       "#bf4040"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#b9a0a0"
+      "#ffffff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#3c0000"
@@ -178,16 +178,16 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#ed333b"
+      "#c01c28"
     ],
     "TEXT_MUTED": [
       "#bf4040"
     ],
     "TEXT_NORMAL": [
-      "#b9a0a0"
+      "#ffffff"
     ],
     "TEXT_PRIMARY": [
-      "#ffc8c8"
+      "#ffa7a7"
     ],
     "TEXT_SECONDARY": [
       "#f66151"
@@ -240,32 +240,32 @@
     "BLUE_660": "#5a76a8",
     "BLUE_700": "#5a76a8",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#e01b24",
-    "BRAND_260": "#e01b24",
-    "BRAND_300": "#e01b24",
-    "BRAND_330": "#e01b24",
-    "BRAND_345": "#e01b24",
-    "BRAND_360": "#e01b24",
-    "BRAND_400": "#e01b24",
-    "BRAND_430": "#e01b24",
-    "BRAND_460": "#e01b24",
-    "BRAND_500": "#e01b24",
-    "BRAND_530": "#e01b24",
-    "BRAND_560": "#c01c28",
-    "BRAND_600": "#e01b24",
-    "BRAND_630": "#e01b24",
-    "BRAND_660": "#e01b24",
-    "BRAND_700": "#e01b24",
-    "BRAND_730": "#b9a0a0",
-    "PLUM_1": "#b9a0a0",
-    "PLUM_3": "#e01b24",
-    "PLUM_4": "#b9a0a0",
-    "PLUM_6": "#b9a0a0",
+    "BRAND_200": "#c01c28",
+    "BRAND_260": "#c01c28",
+    "BRAND_300": "#c01c28",
+    "BRAND_330": "#c01c28",
+    "BRAND_345": "#c01c28",
+    "BRAND_360": "#c01c28",
+    "BRAND_400": "#c01c28",
+    "BRAND_430": "#c01c28",
+    "BRAND_460": "#c01c28",
+    "BRAND_500": "#c01c28",
+    "BRAND_530": "#c01c28",
+    "BRAND_560": "#f66151",
+    "BRAND_600": "#c01c28",
+    "BRAND_630": "#c01c28",
+    "BRAND_660": "#c01c28",
+    "BRAND_700": "#c01c28",
+    "BRAND_730": "#ffffff",
+    "PLUM_1": "#ffffff",
+    "PLUM_3": "#c01c28",
+    "PLUM_4": "#ffffff",
+    "PLUM_6": "#ffffff",
     "PLUM_9": "#bf4040",
     "PLUM_10": "#bf4040",
     "PLUM_11": "#bf4040",
     "PLUM_13": "#bf4040",
-    "PLUM_15": "#e01b24",
+    "PLUM_15": "#c01c28",
     "PLUM_16": "#170a0a",
     "PLUM_17": "#170a0a",
     "PLUM_18": "#230c0c",
@@ -276,14 +276,14 @@
     "PLUM_24": "#170a0a",
     "PLUM_25": "#170a0a",
     "PRIMARY_100": "#bf4040",
-    "PRIMARY_200": "#b9a0a0",
-    "PRIMARY_300": "#e01b24",
-    "PRIMARY_330": "#b9a0a0",
-    "PRIMARY_360": "#e01b24",
-    "PRIMARY_400": "#c01c28",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#c01c28",
+    "PRIMARY_330": "#ffffff",
+    "PRIMARY_360": "#c01c28",
+    "PRIMARY_400": "#f66151",
     "PRIMARY_460": "#170a0a",
-    "PRIMARY_500": "#e01b24",
-    "PRIMARY_530": "#e01b24",
+    "PRIMARY_500": "#c01c28",
+    "PRIMARY_530": "#c01c28",
     "PRIMARY_600": "#170a0a",
     "PRIMARY_630": "#170a0a",
     "PRIMARY_645": "#230c0c",
@@ -306,9 +306,9 @@
     "GREEN_630": "#43b581",
     "GREEN_660": "#43b581",
     "GREEN_700": "#43b581",
-    "GUILD_BOOSTING_PINK": "#e01b24",
-    "GUILD_BOOSTING_PURPLE": "#e01b24",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#e01b24",
+    "GUILD_BOOSTING_PINK": "#c01c28",
+    "GUILD_BOOSTING_PURPLE": "#c01c28",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c01c28",
     "RED_260": "#7f007b",
     "RED_300": "#7f007b",
     "RED_330": "#7f007b",
@@ -354,7 +354,7 @@
     "YELLOW_630": "#faa61a",
     "YELLOW_660": "#faa61a",
     "YELLOW_700": "#faa61a",
-    "WHITE_500": "#b9a0a0",
+    "WHITE_500": "#ffffff",
     "WHITE_630": "#bf4040",
     "ROLE_DEFAULT": "#bf4040"
   },
