@@ -19,7 +19,7 @@
       "#900d1c"
     ],
     "BACKGROUND_FLOATING": [
-      "#7a0a17"
+      "#3e1515"
     ],
     "BACKGROUND_MENTIONED": [
       "rgba(114,0,0,0.1)"
@@ -88,7 +88,7 @@
       "#FFFFFF26"
     ],
     "CARD_PRIMARY_BG": [
-      "#230c0c"
+      "#3e1515"
     ],
     "CARD_SECONDARY_BG": [
       "#230c0c"
@@ -103,7 +103,7 @@
       "#3c0000"
     ],
     "EMBED_BACKGROUND": [
-      "#7a0a17"
+      "#3e1515"
     ],
     "HEADER_PRIMARY": [
       "#ffffff"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#ff7800"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#bf4040"
@@ -160,10 +160,10 @@
       "#000000"
     ],
     "STATUS_DANGER": [
-      "#7f007b"
+      "#ff7800"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#ff7800"
     ],
     "STATUS_DANGER_TEXT": [
       "#170a0a"
@@ -178,7 +178,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#c63142"
+      "#f66151"
     ],
     "TEXT_MUTED": [
       "#bf4040"
@@ -309,21 +309,21 @@
     "GUILD_BOOSTING_PINK": "#900d1c",
     "GUILD_BOOSTING_PURPLE": "#900d1c",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#900d1c",
-    "RED_260": "#7f007b",
-    "RED_300": "#7f007b",
-    "RED_330": "#7f007b",
-    "RED_345": "#7f007b",
-    "RED_360": "#7f007b",
-    "RED_400": "#7f007b",
-    "RED_430": "#7f007b",
-    "RED_460": "#7f007b",
-    "RED_500": "#7f007b",
-    "RED_530": "#7f007b",
-    "RED_560": "#7f007b",
-    "RED_600": "#7f007b",
-    "RED_630": "#7f007b",
-    "RED_660": "#7f007b",
-    "RED_700": "#7f007b",
+    "RED_260": "#ff7800",
+    "RED_300": "#ff7800",
+    "RED_330": "#ff7800",
+    "RED_345": "#ff7800",
+    "RED_360": "#ff7800",
+    "RED_400": "#ff7800",
+    "RED_430": "#ff7800",
+    "RED_460": "#ff7800",
+    "RED_500": "#ff7800",
+    "RED_530": "#ff7800",
+    "RED_560": "#ff7800",
+    "RED_600": "#ff7800",
+    "RED_630": "#ff7800",
+    "RED_660": "#ff7800",
+    "RED_700": "#ff7800",
     "ORANGE_260": "#faa61a",
     "ORANGE_300": "#faa61a",
     "ORANGE_330": "#faa61a",
