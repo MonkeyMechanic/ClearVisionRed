@@ -1,7 +1,7 @@
 {
-  "name": "ClearVisionRed v0.1.2",
+  "name": "ClearVisionRed",
   "description": "Fork of ClearVision that using Red.",
-  "version": "3",
+  "version": "1",
   "authors": [
     {
       "name": "Taki_Shiwa, Sunny & MonkeyMechanic",
@@ -37,7 +37,7 @@
       "#230c0c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#3c0101"
+      "#170a0a"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#230c0c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#3c0101"
+      "#170a0a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#230c0c"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#3c0101"
+      "#170a0a"
     ],
     "BG_BASE_TERTIARY": [
       "#230c0c"
     ],
     "HOME_BACKGROUND": [
-      "#3c0101"
+      "#170a0a"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -133,7 +133,7 @@
       "#230c0c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#3c0101"
+      "#170a0a"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#230c0c"
@@ -169,10 +169,10 @@
       "#230c0c"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#3c0101"
+      "#170a0a"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#3c0101"
+      "#170a0a"
     ],
     "POLLS_VICTOR_FILL": [
       "#43b58180"
@@ -266,13 +266,13 @@
     "PLUM_11": "#bf4040",
     "PLUM_13": "#bf4040",
     "PLUM_15": "#e01b24",
-    "PLUM_16": "#3c0101",
+    "PLUM_16": "#170a0a",
     "PLUM_17": "#230c0c",
     "PLUM_18": "#230c0c",
-    "PLUM_19": "#3c0101",
+    "PLUM_19": "#170a0a",
     "PLUM_20": "#230c0c",
-    "PLUM_21": "#3c0101",
-    "PLUM_22": "#3c0101",
+    "PLUM_21": "#170a0a",
+    "PLUM_22": "#170a0a",
     "PLUM_24": "#230c0c",
     "PLUM_25": "#230c0c",
     "PRIMARY_100": "#bf4040",
@@ -281,13 +281,13 @@
     "PRIMARY_330": "#b9a0a0",
     "PRIMARY_360": "#e01b24",
     "PRIMARY_400": "#c01c28",
-    "PRIMARY_460": "#3c0101",
+    "PRIMARY_460": "#170a0a",
     "PRIMARY_500": "#e01b24",
     "PRIMARY_530": "#e01b24",
     "PRIMARY_600": "#230c0c",
-    "PRIMARY_630": "#3c0101",
+    "PRIMARY_630": "#170a0a",
     "PRIMARY_645": "#230c0c",
-    "PRIMARY_660": "#3c0101",
+    "PRIMARY_660": "#170a0a",
     "PRIMARY_700": "#04122e",
     "PRIMARY_730": "#bf4040",
     "PRIMARY_800": "#230c0c",
