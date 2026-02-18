@@ -358,9 +358,9 @@
     "WHITE_630": "#bf4040",
     "ROLE_DEFAULT": "#bf4040"
   },
-  "background": {
-        "url": "https://raw.githubusercontent.com/MonkeyMechanic/ClearVisionRed/refs/heads/main/ClearVision/Vendetta/dgsefhrtsuty.jpg",
-	      "alpha": 0.25
+  /** "background": { */
+  /**      "url": "https://raw.githubusercontent.com/MonkeyMechanic/ClearVisionRed/refs/heads/main/ClearVision/Vendetta/dgsefhrtsuty.jpg", */
+  /**    "alpha": 0.25 */
   }
   "plus": {
     "version": "0",
